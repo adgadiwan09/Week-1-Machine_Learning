@@ -1,2 +1,2 @@
-# Week-1-python
+# Week-1
 my basic codes
